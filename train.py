@@ -112,3 +112,4 @@ def main():
     print("Saved checkpoint!")
 if __name__== "__main__":
     main()
+    print("The training is completed. Its power level is over 9000 right now.)
